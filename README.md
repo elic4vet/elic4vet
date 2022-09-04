@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Elisabeth
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML,CSS & Javascript
+- 🌱 I’m currently learning HTML,CSS,Javascript & React.
 - 💞️ I’m looking to collaborate on various coding projects
-- 📫 How to reach me elise.doisneau@gmail.com
+- 📫 How to reach me elisabeth.erkekoglou@gmail.com
 
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
