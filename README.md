@@ -1,16 +1,13 @@
 ![image](https://github.com/elic4vet/elic4vet/assets/86532060/b1c6bdd1-d553-46d4-abbc-bb9b126bbf8f)
+#### About me 
 
-- 👋 Hi, I’m @Elisabeth
- 
-- 🌱 I’m currently learning HTML, CSS, Javascript & React.
-- 💞️ I’m looking to collaborate on various coding projects
-- 📫 How to reach me elisabeth.erkekoglou@gmail.com
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elic4vet&theme=radical)](https://git.io/streak-stats)
 
-##### Languages and Tools 🛠️ #####
+##### Languages and Tools 🛠️
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
