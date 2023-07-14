@@ -1,7 +1,8 @@
 ![image](https://github.com/elic4vet/elic4vet/assets/86532060/b1c6bdd1-d553-46d4-abbc-bb9b126bbf8f)
+
 #### About me 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/eerkekoglou/)(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&theme=radical)
