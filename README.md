@@ -7,7 +7,7 @@
 - 📫 How to reach me elisabeth.erkekoglou@gmail.com
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elic4vet&theme=radical)](https://git.io/streak-stats)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
