@@ -2,10 +2,11 @@
  
 #### About me 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkedin](https://www.linkedin.com/in/eerkekoglou/)
- 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=EBB1C9)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkedin](https://www.linkedin.com/in/eerkekoglou/) 
+
+
+##### My Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elic4vet&layout=donut)](https://github.com/elic4vet/github-readme-stats)
 
