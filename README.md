@@ -24,7 +24,7 @@
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elic4vet&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elic4vet&layout=donut)](https://github.com/elic4vet/github-readme-stats)
 
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
