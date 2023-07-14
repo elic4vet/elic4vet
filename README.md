@@ -5,7 +5,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkedin](https://www.linkedin.com/in/eerkekoglou/)
  
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&bg_color=linear-gradient(
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&bg_color= (
     57.4deg,
     rgb(249, 206, 183) 4.6%,
     rgb(234, 174, 202) 26%,
