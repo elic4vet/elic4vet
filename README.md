@@ -1,4 +1,5 @@
-![image](https://github.com/elic4vet/elic4vet/assets/86532060/b1c6bdd1-d553-46d4-abbc-bb9b126bbf8f)
+![image](https://github.com/elic4vet/elic4vet/assets/86532060/ef4c8ef8-581a-4af8-9fbc-6891c09cbb57)
+)
 
 #### About me 
 
