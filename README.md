@@ -1,3 +1,5 @@
+![image](https://github.com/elic4vet/elic4vet/assets/86532060/b1c6bdd1-d553-46d4-abbc-bb9b126bbf8f)
+
 - 👋 Hi, I’m @Elisabeth
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, CSS, Javascript & React.
