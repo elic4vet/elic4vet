@@ -5,7 +5,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkedin](https://www.linkedin.com/in/eerkekoglou/)
  
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&bg_color= background: linear-gradient(57.4deg, rgb(249, 206, 183) 4.6%, rgb(234, 174, 202) 26%, rgb(210, 182, 226) 49.1%, rgb(173, 209, 242) 86.5%);
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&bg_color=linear-gradient(57.4deg, rgb(249, 206, 183) 4.6%, rgb(234, 174, 202) 26%, rgb(210, 182, 226) 49.1%, rgb(173, 209, 242) 86.5%);
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elic4vet&layout=donut)](https://github.com/elic4vet/github-readme-stats)
 
 ##### Languages and Tools 🛠️
