@@ -2,8 +2,7 @@
 
 #### About me 
 
-![Visit my LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkendin](https://www.linkedin.com/eerkekoglou/)
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elic4vet&theme=radical)](https://git.io/streak-stats)
