@@ -6,8 +6,8 @@
 
 
 ##### My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&bg_color=DEG,F7CBB9,ECB2C7,C2C1E8,AED1F2,D7B5DD,E5B2CF,F3C1BE)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elic4vet&layout=donut)](https://github.com/elic4vet/github-readme-stats)
 
 ##### Languages and Tools 🛠️
