@@ -6,7 +6,7 @@
  
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elic4vet&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elic4vet&layout=donut)](https://github.com/elic4vet/github-readme-stats)
 
 ##### Languages and Tools 🛠️
 
@@ -22,8 +22,7 @@
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elic4vet&layout=donut)](https://github.com/elic4vet/github-readme-stats)
-
+ 
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
