@@ -5,7 +5,7 @@
 - 📫 How to reach me elisabeth.erkekoglou@gmail.com
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&theme=dracula)
 
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
