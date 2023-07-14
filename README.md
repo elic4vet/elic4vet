@@ -8,7 +8,7 @@
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elic4vet&theme=radical)](https://git.io/streak-stats)
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
