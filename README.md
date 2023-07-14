@@ -2,7 +2,7 @@
 
 #### About me 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkendin](https://www.linkedin.com/eerkekoglou)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkendin](https://www.linkedin.com/in/eerkekoglou/)
  
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&theme=radical)
