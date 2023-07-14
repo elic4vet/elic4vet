@@ -3,7 +3,12 @@
 ### About me 
 #### Frontend Developer | Passionate about Technology and Continuous Learning
 
-Driven and enthusiastic, I am a passionate Developer eager to kick-start my career in the dynamic world of technology. Although my educational background may not include a computer science degree, my passion for programming and self-motivated learning have allowed me to acquire a solid foundation in web development. I am a quick learner with a growth mindset, always seeking out new challenges and opportunities to expand my knowledge. While I may lack professional experience in the field, I bring a strong work ethic, adaptability, and a keen eye for detail to every endeavor. I thrive on challenges and view them as opportunities for growth. I am ready to embrace new challenges and contribute to innovative projects with enthusiasm and dedication.
+Driven and enthusiastic, I am a passionate Developer eager to kick-start my career in the dynamic world of technology. Although my educational background may not include a computer science degree, my passion for programming and self-motivated learning have allowed me to acquire a solid foundation in web development.
+
+I am a quick learner with a growth mindset, always seeking out new challenges and opportunities to expand my knowledge. While I may lack professional experience in the field, I bring a strong work ethic, adaptability, and a keen eye for detail to every endeavor. I thrive on challenges and view them as opportunities for growth. 
+
+I am ready to embrace new challenges and contribute to innovative projects with enthusiasm and dedication.
+
 If you are seeking a motivated and passionate team member who is committed to continuous learning and adding value to your organization, I would love to connect and discuss potential opportunities.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkedin](https://www.linkedin.com/in/eerkekoglou/) 
