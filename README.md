@@ -1,7 +1,7 @@
 ![image](https://github.com/elic4vet/elic4vet/assets/86532060/ef4c8ef8-581a-4af8-9fbc-6891c09cbb57)
  
 ### About me 
-#### Frontend Developer | Passionate about Technology and Continuous Learning
+Frontend Developer | Passionate about Technology and Continuous Learning
 
 Driven and enthusiastic, I am a passionate Developer eager to kick-start my career in the dynamic world of technology. Although my educational background may not include a computer science degree, my passion for programming and self-motivated learning have allowed me to acquire a solid foundation in web development.
 
