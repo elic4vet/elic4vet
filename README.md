@@ -10,6 +10,7 @@ I am a quick learner with a growth mindset, always seeking out new challenges an
 I am ready to embrace new challenges and contribute to innovative projects with enthusiasm and dedication.
 
 If you are seeking a motivated and passionate team member who is committed to continuous learning and adding value to your organization, I would love to connect and discuss potential opportunities.
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkedin](https://www.linkedin.com/in/eerkekoglou/) 
 
 #### My Stats
