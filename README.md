@@ -15,8 +15,7 @@ If you are seeking a motivated and passionate team member who is committed to co
 
 #### My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=elic4vet&theme=default)](https://git.io/streak-stats)
- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elic4vet&theme=dark)](https://git.io/streak-stats)
 
 ### Languages and Tools 🛠️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
