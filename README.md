@@ -33,6 +33,12 @@ If you are seeking a motivated and passionate team member who is committed to co
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
+
+![Mocha Modern Delicious Food Photo Collage(1)](https://github.com/elic4vet/elic4vet/assets/86532060/94702f21-8646-4f14-9223-e1765ca84708)
+
+
+![Mocha Modern Delicious Food Photo Collage(4)](https://github.com/elic4vet/elic4vet/assets/86532060/2b4ed509-32ff-4a79-9499-9585183fb9d1)
+
  
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
