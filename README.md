@@ -1,4 +1,4 @@
-![White and Gray Minimalist Personal LinkedIn Banner(1)](https://github.com/elic4vet/elic4vet/assets/86532060/f6a470b1-0b79-4945-b632-93369e21bed4)
+![White Classy Minimalist Feminine Personal LinkedIn Banner (3)](https://github.com/elic4vet/elic4vet/assets/86532060/34fcaf39-4292-4d5b-8468-845775bbdced)
 
 ### About me 
 Frontend Developer | Passionate about Technology and Continuous Learning
