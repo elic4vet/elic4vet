@@ -3,7 +3,7 @@
 ### About me 
 Frontend Developer | Passionate about Technology and Continuous Learning
  
-Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, React, HTML, CSS, UI/UX, Figma, and Bootstrap. I am passionate about learning and staying updated with the latest trends in the tech industry. My curiosity drives me to seek out new challenges and improve my skills constantly. I enjoy working with diverse teams, exchanging ideas, and contributing to a positive and productive work environment. I am always open to networking with professionals, sharing knowledge, and exploring new opportunities. Let's connect!
+Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, React, HTML, CSS, UI/UX, Figma, and Bootstrap. I am passionate about learning and staying updated with the latest trends in the tech industry. My curiosity drives me to seek out new challenges and improve my skills constantly. I enjoy working with diverse teams, exchanging ideas, and contributing to a positive and productive work environment. I am always open to networking with professionals, sharing knowledge, and exploring new opportunities. 
  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkedin](https://www.linkedin.com/in/eerkekoglou/) 
 
