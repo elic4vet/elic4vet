@@ -10,7 +10,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Re
 #### My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-tau-ashy.vercel.app?user=elic4vet&theme=radical)](https://git.io/streak-stats)
-<img src="https://widgetbite.com/stats/{elic4vet}" alt="watching_count" />
+
 ### Languages and Tools 🛠️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -29,7 +29,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Re
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
 
- 
+ <img src="https://widgetbite.com/stats/elic4vet" alt="watching_count" />
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
