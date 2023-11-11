@@ -13,6 +13,8 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Re
 
 ### Languages and Tools 🛠️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,11 +28,6 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Re
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
-
-![Mocha Modern Delicious Food Photo Collage(1)](https://github.com/elic4vet/elic4vet/assets/86532060/94702f21-8646-4f14-9223-e1765ca84708)
-
-
-![Mocha Modern Delicious Food Photo Collage(4)](https://github.com/elic4vet/elic4vet/assets/86532060/2b4ed509-32ff-4a79-9499-9585183fb9d1)
 
  
 <!---
