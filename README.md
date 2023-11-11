@@ -27,9 +27,9 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Re
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=elic4vet.elic4vet)
 
-
- <img src="https://widgetbite.com/stats/elic4vet" alt="watching_count" />
+ 
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
