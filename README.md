@@ -5,8 +5,6 @@ Frontend Developer | Passionate about Technology and Continuous Learning
  
 Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, React, HTML, CSS, UI/UX, Figma, and Bootstrap. I am passionate about learning and staying updated with the latest trends in the tech industry. My curiosity drives me to seek out new challenges and improve my skills constantly. I enjoy working with diverse teams, exchanging ideas, and contributing to a positive and productive work environment. I am always open to networking with professionals, sharing knowledge, and exploring new opportunities. 
  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Visit my Linkedin](https://www.linkedin.com/in/eerkekoglou/) 
-
 #### My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-tau-ashy.vercel.app?user=elic4vet&theme=radical)](https://git.io/streak-stats)
@@ -27,7 +25,14 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Re
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=elic4vet&repo=elic4vet&countColorcountColor&countColor=%237B1E7B"/>
+
+
+<a href="https://www.linkedin.com/in/eerkekoglou/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+<img src="https://widgetbite.com/stats/elic4vet" alt="watching_count" />
 
  
 <!---
