@@ -27,7 +27,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Re
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=elic4vet)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=elic4vet.elic4vet)
 
  
 <!---
