@@ -34,7 +34,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Re
 
 
 
-<img src="https://widgetbite.com/stats/elic4vet" alt="watching_count" />
+<img src="https://widgetbite.com/stats/{elic4vet}" alt="watching_count" />
 
  
 <!---
