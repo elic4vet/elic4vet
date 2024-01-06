@@ -1,5 +1,5 @@
 
-![Untitled design (3)](https://github.com/elic4vet/elic4vet/assets/86532060/dcdc74bf-2d90-4de6-ad1a-2540b74c6592)
+![Uploading White Classy Minimalist Feminine Personal LinkedIn Banner (1).png…]()
 
 ### About me 
 Frontend Developer | Passionate about Technology and Continuous Learning
