@@ -13,10 +13,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Re
 <a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
-#### My Stats
-
-[![GitHub Streak](https://github-readme-streak-stats-tau-ashy.vercel.app?user=elic4vet&theme=radical)](https://git.io/streak-stats)
-
+ 
 ### Languages and Tools 🛠️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -33,10 +30,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Re
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-
-
-
-<img src="https://widgetbite.com/stats/{elic4vet}" alt="watching_count" />
+ 
 
  
 <!---
