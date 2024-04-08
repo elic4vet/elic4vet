@@ -1,7 +1,6 @@
 
 ![_Purple Futuristic Technology Linkedin Banner (6)](https://github.com/elic4vet/elic4vet/assets/86532060/3eda4666-129f-455e-a498-ad1d4945a649)
 
-
 ### About me 
  
 Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, React, HTML, CSS, UI/UX, Figma, and Bootstrap. I am passionate about learning and staying updated with the latest trends in the tech industry. My curiosity drives me to seek out new challenges and improve my skills constantly. I enjoy working with diverse teams, exchanging ideas, and contributing to a positive and productive work environment. I am always open to networking with professionals, sharing knowledge, and exploring new opportunities. 
