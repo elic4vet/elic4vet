@@ -1,4 +1,3 @@
-
 ![Purple Futuristic Technology Linkedin Banner](https://github.com/elic4vet/elic4vet/assets/86532060/452c17ba-4c3d-4fa0-89ed-552dc6ef010b)
 
 ### About me 
