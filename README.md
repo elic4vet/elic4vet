@@ -24,6 +24,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
  
  
+
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
