@@ -8,6 +8,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 
 <a href="https://www.linkedin.com/in/eerkekoglou/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
+
 ### Languages and Tools 🛠️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
