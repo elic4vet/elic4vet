@@ -1,4 +1,5 @@
- <img width="1188" alt="Gradient Minimalist Fashion LinkedIn Banner (1)" src="https://github.com/elic4vet/elic4vet/assets/86532060/83d73635-c80b-4403-9d27-af580bc2c8d2">
+ ![Gradient Minimalist Fashion LinkedIn Banner (3)](https://github.com/elic4vet/elic4vet/assets/86532060/6c7edbc6-a935-4ae3-96e5-f97bce2f147e)
+
 
 
 ### About me 
