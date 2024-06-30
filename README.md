@@ -1,4 +1,5 @@
-![Purple Futuristic Technology Linkedin Banner](https://github.com/elic4vet/elic4vet/assets/86532060/452c17ba-4c3d-4fa0-89ed-552dc6ef010b)
+ <img width="1188" alt="Gradient Minimalist Fashion LinkedIn Banner (1)" src="https://github.com/elic4vet/elic4vet/assets/86532060/83d73635-c80b-4403-9d27-af580bc2c8d2">
+
 
 ### About me 
  
