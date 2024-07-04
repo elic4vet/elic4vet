@@ -1,4 +1,4 @@
- ![Gradient Minimalist Fashion LinkedIn Banner (3)](https://github.com/elic4vet/elic4vet/assets/86532060/6c7edbc6-a935-4ae3-96e5-f97bce2f147e)
+![Gradient Minimalist Fashion LinkedIn Banner (3)](https://github.com/elic4vet/elic4vet/assets/86532060/6c7edbc6-a935-4ae3-96e5-f97bce2f147e)
 
 
 ### About me 
@@ -8,7 +8,6 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 #### My Socials
 
 <a href="https://www.linkedin.com/in/eerkekoglou/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- 
 
 ### Languages and Tools 🛠️
 
