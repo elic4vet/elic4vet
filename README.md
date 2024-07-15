@@ -1,7 +1,6 @@
 ![Gradient Minimalist Fashion LinkedIn Banner (3)](https://github.com/elic4vet/elic4vet/assets/86532060/6c7edbc6-a935-4ae3-96e5-f97bce2f147e)
 
 
-
 ### About me 
  
 Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Python, React, HTML, CSS, UI/UX, Figma, and Bootstrap. I am passionate about learning and staying updated with the latest trends in the tech industry. My curiosity drives me to seek out new challenges and improve my skills constantly. I enjoy working with diverse teams, exchanging ideas, and contributing to a positive and productive work environment. I am always open to networking with professionals, sharing knowledge, and exploring new opportunities. 
