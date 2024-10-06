@@ -28,7 +28,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 
 [![GitHub Streak](https://github-readme-streak-stats-elic4vet.vercel.app?user=elic4vet)](https://git.io/streak-stats)
 
-![Brown Aesthetic Moodboard Vision Board Photo Collage (1)](https://github.com/user-attachments/assets/27f0f737-cb3c-44a7-8558-4d71bb64f2cf)
+![tumblr_95004f96aafdba50073402885b88a70b_2f7a542f_1280](https://github.com/user-attachments/assets/373f8a6c-cbbd-423d-9d47-4416f3dea5b7)
 
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
