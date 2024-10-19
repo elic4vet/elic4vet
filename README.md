@@ -28,7 +28,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 
 [![GitHub Streak](https://github-readme-streak-stats-elic4vet.vercel.app?user=elic4vet)](https://git.io/streak-stats)
 
-🏅 Holopin badges
+🏅 ## Holopin badges
 [![An image of @elic4vet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elic4vet)](https://holopin.io/@elic4vet)
  
 ![tumblr_95004f96aafdba50073402885b88a70b_2f7a542f_1280](https://github.com/user-attachments/assets/373f8a6c-cbbd-423d-9d47-4416f3dea5b7)
