@@ -26,6 +26,9 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### Stats
+name: Profile Readme Development Stats
+uses: anmol098/waka-readme-stats@v4
+            
 [![GitHub Streak](https://github-readme-streak-stats-elic4vet.vercel.app?user=elic4vet)](https://git.io/streak-stats)
 
 ### 🏅 Holopin badges
