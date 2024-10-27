@@ -9,7 +9,6 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 
 <a href="https://www.linkedin.com/in/eerkekoglou/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-
 ### Languages and Tools 🛠️
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,6 +30,17 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 [![An image of @elic4vet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elic4vet)](https://holopin.io/@elic4vet)
  
 ![tumblr_95004f96aafdba50073402885b88a70b_2f7a542f_1280](https://github.com/user-attachments/assets/373f8a6c-cbbd-423d-9d47-4416f3dea5b7)
+
+
+<!--Start Count Merged PRs-->
+
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span>
+
+<!--Finish Count Merged PRs-->
+
+
+
+<!--Start Merged PRs-->
 
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
