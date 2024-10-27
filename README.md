@@ -32,16 +32,6 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 ![tumblr_95004f96aafdba50073402885b88a70b_2f7a542f_1280](https://github.com/user-attachments/assets/373f8a6c-cbbd-423d-9d47-4416f3dea5b7)
 
 
-<!--Start Count Merged PRs-->
-
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span>
-
-<!--Finish Count Merged PRs-->
-
-
-
-<!--Start Merged PRs-->
-
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
