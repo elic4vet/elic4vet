@@ -1,5 +1,5 @@
 
-![360_F_614059690_hxzsMoMnJFPreIcqgHEpzxZPCjJzz7In](https://github.com/user-attachments/assets/a375067c-4312-49dd-a057-77c05a17c5c3)
+ 
 
 ![Gradient Minimalist Fashion LinkedIn Banner (3)](https://github.com/elic4vet/elic4vet/assets/86532060/6c7edbc6-a935-4ae3-96e5-f97bce2f147e)
 
@@ -24,6 +24,8 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+![360_F_614059690_hxzsMoMnJFPreIcqgHEpzxZPCjJzz7In](https://github.com/user-attachments/assets/a375067c-4312-49dd-a057-77c05a17c5c3)
 
 ### Stats
 
