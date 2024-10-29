@@ -1,8 +1,5 @@
 
- 
-
-![Gradient Minimalist Fashion LinkedIn Banner (3)](https://github.com/elic4vet/elic4vet/assets/86532060/6c7edbc6-a935-4ae3-96e5-f97bce2f147e)
-![360_F_614059690_hxzsMoMnJFPreIcqgHEpzxZPCjJzz7In](https://github.com/user-attachments/assets/a375067c-4312-49dd-a057-77c05a17c5c3)
+![halloween](https://github.com/user-attachments/assets/c6c8d05a-e560-41e6-9702-2641b87d25d0)
 
 ### About me 
  
