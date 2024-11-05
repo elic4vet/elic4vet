@@ -1,5 +1,5 @@
 
-![halloween](https://github.com/user-attachments/assets/c6c8d05a-e560-41e6-9702-2641b87d25d0)
+![Untitled design (4)](https://github.com/user-attachments/assets/11b8468f-7f54-40ae-b95e-fb8c4468153e)
 
 
 ### About me 
