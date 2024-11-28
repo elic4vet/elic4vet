@@ -28,12 +28,14 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 
 [![GitHub Streak](https://github-readme-streak-stats-elic4vet.vercel.app?user=elic4vet)](https://git.io/streak-stats)
 
-### 🏅 Holopin badges
-[![An image of @elic4vet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elic4vet)](https://holopin.io/@elic4vet)
- 
+
 
 ![fireplace-christmas-week](https://github.com/user-attachments/assets/d85ab2c5-d7f4-4a69-8c2c-5980eb21d426)
 
+
+### 🏅 Holopin badges
+[![An image of @elic4vet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elic4vet)](https://holopin.io/@elic4vet)
+ 
 
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
