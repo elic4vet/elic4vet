@@ -28,6 +28,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 
 [![GitHub Streak](https://github-readme-streak-stats-elic4vet.vercel.app?user=elic4vet)](https://git.io/streak-stats)
 
+![christmas_gingerbread_2-wallpaper-3240x2160](https://github.com/user-attachments/assets/c12a52cb-addd-41c1-8bbe-b6f4c0d4520e)
 
 
 ![fireplace-christmas-week](https://github.com/user-attachments/assets/d85ab2c5-d7f4-4a69-8c2c-5980eb21d426)
