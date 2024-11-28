@@ -31,8 +31,6 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 ![christmas_gingerbread_2-wallpaper-3240x2160](https://github.com/user-attachments/assets/c12a52cb-addd-41c1-8bbe-b6f4c0d4520e)
 
 
-![fireplace-christmas-week](https://github.com/user-attachments/assets/d85ab2c5-d7f4-4a69-8c2c-5980eb21d426)
-
 
 ### 🏅 Holopin badges
 [![An image of @elic4vet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elic4vet)](https://holopin.io/@elic4vet)
