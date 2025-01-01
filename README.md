@@ -8,6 +8,10 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 #### Code time 
 [![wakatime](https://wakatime.com/badge/user/fde3687b-cc06-4bac-b7d2-fb6a27c96463.svg)](https://wakatime.com/@fde3687b-cc06-4bac-b7d2-fb6a27c96463)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@elisedoisneau89334/30-nites-of-code)  
+  ![@elisedoisneau89334 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elisedoisneau89334)
+
 ### Languages and Tools 🛠️
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
