@@ -9,7 +9,7 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 [![wakatime](https://wakatime.com/badge/user/fde3687b-cc06-4bac-b7d2-fb6a27c96463.svg)](https://wakatime.com/@fde3687b-cc06-4bac-b7d2-fb6a27c96463)
 
 ## #30NitesOfCode:
-#Day26- 26.01.2025
+#Day27- 27.01.2025
  
   [Check out my progress!](https://www.codedex.io/@elic4vet/30-nites-of-code)  
   ![@elic4vet #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elic4vet)
