@@ -10,9 +10,8 @@ Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Py
 
 ## #30NitesOfCode:
 #Day08- 07.02.2025
-  [Check out my progress!](https://www.codedex.io/@elic4vet/30-nites-of-code)  
-  ![@elic4vet #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elic4vet)
-
+![@elic4vet #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elic4vet)
+[Check out my progress!](https://www.codedex.io/@elic4vet/30-nites-of-code) 
 ### Languages and Tools 🛠️
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
