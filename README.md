@@ -3,12 +3,12 @@
 
 ### About me 
  
-Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Python, React, HTML, CSS, UI/UX, Figma, and Bootstrap. I am passionate about learning and staying updated with the latest trends in the tech industry. My curiosity drives me to seek out new challenges and improve my skills constantly. I enjoy working with diverse teams, exchanging ideas, and contributing to a positive and productive work environment. I am always open to networking with professionals, sharing knowledge, and exploring new opportunities. 
+Hi, I'm Elisabeth, I live and work in Germany. I am proficient in Javascript, Python, React, HTML, CSS, UI/UX, Figma, and Bootstrap. I am passionate about learning and staying updated with the latest trends in the tech industry. My curiosity drives me to seek new challenges and improve my skills constantly. I enjoy working with diverse teams, exchanging ideas, and contributing to a positive and productive work environment. I am always open to networking with professionals, sharing knowledge, and exploring new opportunities. 
 
 #### Code time 
 [![wakatime](https://wakatime.com/badge/user/fde3687b-cc06-4bac-b7d2-fb6a27c96463.svg)](https://wakatime.com/@fde3687b-cc06-4bac-b7d2-fb6a27c96463)
 
-## Day32 - 03.03.2025
+## Day33 - 04.03.2025
 ## #30NitesOfCode: 
 ![@elic4vet #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elic4vet)
  
