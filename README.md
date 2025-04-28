@@ -31,7 +31,7 @@ Hi, I'm Elisabeth. I live and work in Germany. I am proficient in Javascript, Py
 ### 🏅 Holopin badges
 [![An image of @elic4vet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elic4vet)](https://holopin.io/@elic4vet)
 
- 
+
 <!---
 elic4vet/elic4vet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
