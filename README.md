@@ -1,5 +1,7 @@
  <img width="6250" height="1875" alt="_Purple Futuristic Technology Linkedin Banner (10)" src="https://github.com/user-attachments/assets/c1d47a50-dba2-4aab-812a-0e5a8ee300ca" />
 
+ 
+
 <h1 align="center">Hi 👋, I'm Elisabeth</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
