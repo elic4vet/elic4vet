@@ -1,38 +1,33 @@
  <img width="6250" height="1875" alt="_Purple Futuristic Technology Linkedin Banner (10)" src="https://github.com/user-attachments/assets/c1d47a50-dba2-4aab-812a-0e5a8ee300ca" />
 
-### About me 
+<h1 align="center">Hi 👋, I'm Elisabeth</h1>
+<h3 align="center">A passionate frontend developer from Germany</h3>
 
-Hi, I'm Elisabeth. I live and work in Germany. I am proficient in JavaScript, Python, React, HTML, CSS, UI/UX, Figma, and Bootstrap. I am passionate about learning and staying updated with the latest trends in the tech industry. My curiosity drives me to seek new challenges and improve my skills constantly. I enjoy working with diverse teams, exchanging ideas, and contributing to a positive and productive work environment. I am always open to networking with professionals, sharing knowledge, and exploring new opportunities. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elic4vet&label=Profile%20views&color=0e75b6&style=flat" alt="elic4vet" /> </p>
 
-#### Code time 
-[![wakatime](https://wakatime.com/badge/user/fde3687b-cc06-4bac-b7d2-fb6a27c96463.svg)](https://wakatime.com/@fde3687b-cc06-4bac-b7d2-fb6a27c96463)
+- 🔭 I’m currently working on [AI Resume Builder](https://ai-resume26.vercel.app/)
 
-## #30NitesOfCode: 
-[![@elic4vet #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elic4vet)](https://www.codedex.io/@elic4vet/30-nites-of-code)
- 
- [Check out my progress!](https://www.codedex.io/@elic4vet/30-nites-of-code)  
+- 🌱 I’m currently learning **Python, JavaScript(+Next.js), Tailwind CSS**
 
-[https://app.flocus.com/ ](https://flocus.com/minimalist-pomodoro-timer)
+- 👨‍💻 All of my projects are available at [https://github.com/elic4vet](https://github.com/elic4vet)
 
+- 💬 Ask me about **HTML,CSS,UX/UI,Vue.Js,React**
 
-### Languages and Tools 🛠️
+- 📫 How to reach me **elisabeth.erkekoglou@gmail.com**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+- ⚡ Fun fact **I love cats and coffee**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 
-### 🏅 Holopin badges
-[![An image of @elic4vet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elic4vet)](https://holopin.io/@elic4vet)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elic4vet&show_icons=true&locale=en&layout=compact" alt="elic4vet" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elic4vet&show_icons=true&locale=en" alt="elic4vet" /></p>
 
 
 <!---
