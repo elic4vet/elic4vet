@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/elic4vet](https://github.com/elic4vet)
 
-- 💬 Ask me about **HTML,CSS,UX/UI,Vue.Js,React**
+- 💬 Ask me about **HTML, CSS, UX/UI, Vue.js, React**
 
 - 📫 How to reach me **elisabeth.erkekoglou@gmail.com**
 
