@@ -1,4 +1,5 @@
- <img alt="_Purple Futuristic Technology Linkedin Banner (10)" src="https://github.com/user-attachments/assets/c1d47a50-dba2-4aab-812a-0e5a8ee300ca" />
+
+<img width="1584" height="396" alt="Blue And Purple Professional Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/68344c18-2d3a-401b-93a7-238d49bfc72d" />
 
  
 
